@@ -1,4 +1,3 @@
-# Sebastian Ramos
 
 ## About Me
 
