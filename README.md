@@ -2,8 +2,7 @@
 
 ## About Me
 
-I'm a software an Associate Software Developer offering my skills to local businesses in the Monterey Region. I love to golf and read books.
-
+I'm an Associate Software Developer offering my skills to local businesses in the Monterey region. When I'm not coding, you'll find me on the golf course or with a book.
 - 🔭 Currently building at **Digital NEST**
 - 🎓 B.S. Computer Science, CSU Monterey Bay
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/sebastianvramos/)
@@ -43,4 +42,4 @@ I'm a software an Associate Software Developer offering my skills to local busin
 
 An interactive map for finding California hunt zones by species, date, and hunt type. It aggregates GeoJSON datasets for 14 species with per-zone seasons, bag limits, tag quotas, and hunt codes, and lets you click any zone to see its details.
 
-**Built 
+**Built with Node.js, Express, EJS, OpenLayers, GeoJSON**
